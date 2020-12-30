@@ -1,6 +1,6 @@
 # YouKnoww
 
+Live Project for news update.
+Contribution: Front-end Developer
 
-## Live Project for news update.
-
-### Preview : https://youknoww.com/
+Preview : https://youknoww.com/
